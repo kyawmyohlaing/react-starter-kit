@@ -1,5 +1,5 @@
 {
-  "name": "proofcertificate",
+  "name": "react-starter-kit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "author": "Kyaw Myo Hlaing",
   "eslintConfig": {
     "extends": "react-app"
   },
